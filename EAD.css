@@ -1,0 +1,32 @@
+.s1{
+	text-align: center;
+
+}
+.s2{
+	font-style: bold;
+}
+.s{
+	background-color: #AAAAAA;
+	font-family: Arial;
+}
+.s3{
+	line-height: 0.2;
+}
+.c{
+	text-align: right;
+}
+a{
+	color:blue;
+
+}
+.line1{
+	height: 1px;
+    background: black;
+}
+#myButton{
+	color:blue;
+
+}
+#myButton1{
+	color:green;
+}
